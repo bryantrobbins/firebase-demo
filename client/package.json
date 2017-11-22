@@ -1,7 +1,7 @@
 {
   "name": "btr-demo-client",
   "version": "1.0.0",
-  "description": "A test project for Node.js with firebase",
+  "description": "A test project for Vue.js with firebase",
   "author": "Bryan Robbins",
   "private": true,
   "scripts": {

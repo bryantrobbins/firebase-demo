@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="./assets/logo-vue.png">
+    <img src="./assets/logo-firebase.png">
     <router-view/>
   </div>
 </template>
