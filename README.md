@@ -7,4 +7,4 @@ I am tracking my own work in the Issues tab.
 
 ### Components
 
-* Client: A Javascript client using the vue.js framework to give me a testbed.
+* Client: A Javascript client using Vue.js, providing a testbed for calling Firebase services.
