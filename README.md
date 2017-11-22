@@ -1,4 +1,4 @@
-## Coffee with a Christian
+## Firebase demo
 
 This is a simple test project with Firebase and a Javascript client.
 
