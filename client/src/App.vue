@@ -8,7 +8,10 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  created () {
+    console.log(this.$store.state.db)
+  }
 }
 </script>
 
